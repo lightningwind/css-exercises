@@ -1,0 +1,20 @@
+/* Odd-numbered elements */
+.class1 { 
+    background-color: rgb(243, 171, 169);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.class1.class2 {
+    font-size: 24px;
+}
+
+#num2 {
+    color: hsl(240, 100%, 50%);
+    font-size: 36px;
+}
+
+#num4 {
+    background-color: #A1FB8F;
+    font-size: 24px;
+    font-weight: 700;
+}
